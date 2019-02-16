@@ -1,3 +1,3 @@
 module RailsUikit
-  VERSION = "3.0.0.beta.40"
+  VERSION = "3.0.3"
 end
